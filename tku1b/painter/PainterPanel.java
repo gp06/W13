@@ -34,6 +34,7 @@ public class PainterPanel extends JPanel implements ActionListener, ItemListener
     private JButton color2Button;
     private Color color1;
     private Color color2;
+    private Color color3;
 
     private final int RECT = 1;
     private final int OVAL = 2;
